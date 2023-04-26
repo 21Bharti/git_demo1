@@ -4,6 +4,10 @@ print('this is the second code')
 
 print('this is the third code')
 
+<<<<<<< HEAD
 print('hi')
 
 print('new')
+=======
+print('hello')
+>>>>>>> 9c71e2cfb68f2890662d389be047a307c0424f88
